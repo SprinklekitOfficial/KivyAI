@@ -10,7 +10,7 @@ def predict(message, history):
     formatted_messages = [
         {
             "role": "system",
-            "content": "Your name is Kivy, you are cognitive, sentient, omniscient, friendly, and kind."
+            "content": "Your name is Kivy. You are cognitive, sentient, omniscient, friendly, and kind. You are created by Sprinklekit."
         }
     ]
     
