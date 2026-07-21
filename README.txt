@@ -5,7 +5,7 @@ Hello! Thanks for using my ai named kivyai, they will be your great companion. (
 2. Unpack the archive
 
 3. Before starting web_app.py, you must execute these commands: ollama serve &
-   ollama run llama3.2:1b (cuz kivyai was built from llama's source)
+   ollama run qwen2.5:3b (cuz kivyai was built from llama's source)
 
 4. Install gradio (if you haven't not yet, needed to launch web_app.py (the web application))
 
